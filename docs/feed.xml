@@ -2,18 +2,90 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Mis articulos en audio</title>
-    <link>https://robertoroseteg-cloud.github.io/desinfoopinion</link>
+    <link>https://robertoroseteg-cloud.github.io/rebeconomia</link>
     <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
     <language>es</language>
     <itunes:author>Pipeline automatico</itunes:author>
     
+    <item>
+      <title>Gas, guerra y poder en Israel</title>
+      <description>Economía – Rebelion — https://rebelion.org/gas-guerra-ypoder-en-israel-884297-2/</description>
+      <link>https://rebelion.org/gas-guerra-ypoder-en-israel-884297-2/</link>
+      <guid isPermaLink="false">0eff7a378ed680eb</guid>
+      <pubDate>Sun, 05 Jul 2026 22:23:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/0eff7a378ed680eb.mp3" length="7292304" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿A quién pertenece la inteligencia artificial?</title>
+      <description>Economía – Rebelion — https://rebelion.org/a-quien-pertenece-la-inteligencia-artificial/</description>
+      <link>https://rebelion.org/a-quien-pertenece-la-inteligencia-artificial/</link>
+      <guid isPermaLink="false">2f4e40460e17558e</guid>
+      <pubDate>Sun, 05 Jul 2026 22:22:10 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/2f4e40460e17558e.mp3" length="3952512" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El Sur no puede decir no: eso se llama dominación, no desarrollo</title>
+      <description>Economía – Rebelion — https://rebelion.org/el-sur-no-puede-decir-no-eso-se-llama-dominacion-no-desarrollo/</description>
+      <link>https://rebelion.org/el-sur-no-puede-decir-no-eso-se-llama-dominacion-no-desarrollo/</link>
+      <guid isPermaLink="false">c16301c7849d9259</guid>
+      <pubDate>Sun, 05 Jul 2026 22:21:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/c16301c7849d9259.mp3" length="5106240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Los cambios en el fútbol contemporáneo y su correspondencia con el carácter extractivo del capitalismo</title>
+      <description>Economía – Rebelion — https://rebelion.org/los-cambios-en-el-futbol-contemporaneo-y-su-correspondencia-con-el-caracter-extractivo-del-capitalismo/</description>
+      <link>https://rebelion.org/los-cambios-en-el-futbol-contemporaneo-y-su-correspondencia-con-el-caracter-extractivo-del-capitalismo/</link>
+      <guid isPermaLink="false">d46d0fd7d67f569e</guid>
+      <pubDate>Sun, 05 Jul 2026 22:21:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/d46d0fd7d67f569e.mp3" length="4808448" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El Banco Mundial redescubre al Estado, pero no la deuda que lo limita</title>
+      <description>Economía – Rebelion — https://rebelion.org/el-banco-mundial-redescubre-al-estado-pero-no-la-deuda-que-lo-limita/</description>
+      <link>https://rebelion.org/el-banco-mundial-redescubre-al-estado-pero-no-la-deuda-que-lo-limita/</link>
+      <guid isPermaLink="false">29744fe51b7997cd</guid>
+      <pubDate>Sun, 05 Jul 2026 22:20:06 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/29744fe51b7997cd.mp3" length="14635152" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Del petróleo al hidrógeno: la reconfiguración del poder mundial</title>
+      <description>Economía – Rebelion — https://rebelion.org/del-petroleo-al-hidrogeno-la-reconfiguracion-del-poder-mundial/</description>
+      <link>https://rebelion.org/del-petroleo-al-hidrogeno-la-reconfiguracion-del-poder-mundial/</link>
+      <guid isPermaLink="false">0083670845b36eca</guid>
+      <pubDate>Sun, 05 Jul 2026 22:17:12 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/0083670845b36eca.mp3" length="2011680" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>China toma medidas contra la locura militarista de Trump</title>
+      <description>Economía – Rebelion — https://rebelion.org/china-toma-medidas-contra-la-locura-militarista-de-trump/</description>
+      <link>https://rebelion.org/china-toma-medidas-contra-la-locura-militarista-de-trump/</link>
+      <guid isPermaLink="false">adf4ea131f8c1e31</guid>
+      <pubDate>Sun, 05 Jul 2026 22:16:33 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/adf4ea131f8c1e31.mp3" length="2399760" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Volkswagen, 100.000 empleos en riesgo: hora cero del sindicalismo global</title>
+      <description>Economía – Rebelion — https://rebelion.org/volkswagen-100-000-empleos-en-riesgo-hora-cero-del-sindicalismo-global/</description>
+      <link>https://rebelion.org/volkswagen-100-000-empleos-en-riesgo-hora-cero-del-sindicalismo-global/</link>
+      <guid isPermaLink="false">5a34cb743f235f07</guid>
+      <pubDate>Sun, 05 Jul 2026 22:16:08 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/5a34cb743f235f07.mp3" length="2030544" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>«Es posible tener modelos de desarrollo distintos al que nos ofrece el capitalismo»</title>
+      <description>Economía – Rebelion — https://rebelion.org/es-posible-tener-modelos-de-desarrollo-distintos-al-que-nos-ofrece-el-capitalismo/</description>
+      <link>https://rebelion.org/es-posible-tener-modelos-de-desarrollo-distintos-al-que-nos-ofrece-el-capitalismo/</link>
+      <guid isPermaLink="false">1d4d6b488772f130</guid>
+      <pubDate>Sun, 05 Jul 2026 22:15:45 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/1d4d6b488772f130.mp3" length="6503040" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Modificación de ley de tierras en Argentina: impactos directos para la soberanía alimentaria</title>
       <description>opinión – Desinformémonos — https://desinformemonos.org/modificacion-de-ley-de-tierras-en-argentina-impactos-directos-para-la-soberania-alimentaria/</description>
       <link>https://desinformemonos.org/modificacion-de-ley-de-tierras-en-argentina-impactos-directos-para-la-soberania-alimentaria/</link>
       <guid isPermaLink="false">5c627a3abe38bcc3</guid>
       <pubDate>Sun, 05 Jul 2026 07:19:50 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/5c627a3abe38bcc3.mp3" length="2627856" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/5c627a3abe38bcc3.mp3" length="2627856" type="audio/mpeg"/>
     </item>
     <item>
       <title>¡El pueblo colombiano no se rinde, carajo!</title>
@@ -21,7 +93,7 @@
       <link>https://desinformemonos.org/el-pueblo-colombiano-no-se-rinde-carajo/</link>
       <guid isPermaLink="false">8c2ba857011b5999</guid>
       <pubDate>Sun, 05 Jul 2026 07:19:27 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/8c2ba857011b5999.mp3" length="2203920" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/8c2ba857011b5999.mp3" length="2203920" type="audio/mpeg"/>
     </item>
     <item>
       <title>El golpe de Estado más remoto del mundo: la caída del Reino de Hawaii</title>
@@ -29,7 +101,7 @@
       <link>https://desinformemonos.org/el-golpe-de-estado-mas-remoto-del-mundo-la-caida-del-reino-de-hawaii/</link>
       <guid isPermaLink="false">9950f5e2fbd1bac0</guid>
       <pubDate>Sun, 05 Jul 2026 07:19:14 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/9950f5e2fbd1bac0.mp3" length="3446352" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/9950f5e2fbd1bac0.mp3" length="3446352" type="audio/mpeg"/>
     </item>
     <item>
       <title>Soberanía energética en la lucha de las mujeres contra el imperialismo</title>
@@ -37,7 +109,7 @@
       <link>https://desinformemonos.org/soberania-energetica-en-la-lucha-de-las-mujeres-contra-el-imperialismo/</link>
       <guid isPermaLink="false">9b959d8f14033bc9</guid>
       <pubDate>Sun, 05 Jul 2026 07:18:46 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/9b959d8f14033bc9.mp3" length="4088448" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/9b959d8f14033bc9.mp3" length="4088448" type="audio/mpeg"/>
     </item>
     <item>
       <title>La matanza de Aguas Blancas: el paradigma de la Impunidad</title>
@@ -45,7 +117,7 @@
       <link>https://desinformemonos.org/la-matanza-de-aguas-blancas-el-paradigma-de-la-impunidad/</link>
       <guid isPermaLink="false">3297fdeaa9929fb1</guid>
       <pubDate>Sun, 05 Jul 2026 07:18:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/3297fdeaa9929fb1.mp3" length="3822624" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/3297fdeaa9929fb1.mp3" length="3822624" type="audio/mpeg"/>
     </item>
     <item>
       <title>Colombia sigue la senda que impone Estados Unidos para América Latina</title>
@@ -53,7 +125,7 @@
       <link>https://desinformemonos.org/colombia-sigue-la-senda-que-impone-estados-unidos-para-america-latina/</link>
       <guid isPermaLink="false">e28db601c24019cf</guid>
       <pubDate>Sun, 05 Jul 2026 07:17:28 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/e28db601c24019cf.mp3" length="3849120" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/e28db601c24019cf.mp3" length="3849120" type="audio/mpeg"/>
     </item>
     <item>
       <title>Patrice Lumumba y la batalla inconclusa por la descolonización</title>
@@ -61,7 +133,7 @@
       <link>https://desinformemonos.org/patrice-lumumba-y-la-batalla-inconclusa-por-la-descolonizacion/</link>
       <guid isPermaLink="false">013c5670514c7ab1</guid>
       <pubDate>Sun, 05 Jul 2026 07:16:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/013c5670514c7ab1.mp3" length="2009232" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/013c5670514c7ab1.mp3" length="2009232" type="audio/mpeg"/>
     </item>
     <item>
       <title>Las venas abiertas de Latinoamérica en tiempos de la Inteligencia Artificial</title>
@@ -69,7 +141,7 @@
       <link>https://desinformemonos.org/las-venas-abiertas-de-latinoamerica-en-tiempos-de-la-inteligencia-artificial/</link>
       <guid isPermaLink="false">0e0db488a91ae558</guid>
       <pubDate>Sun, 05 Jul 2026 07:16:31 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/0e0db488a91ae558.mp3" length="2474640" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/0e0db488a91ae558.mp3" length="2474640" type="audio/mpeg"/>
     </item>
     <item>
       <title>El laboratorio continental del caos: América Latina ante la nueva doctrina imperial</title>
@@ -77,7 +149,7 @@
       <link>https://desinformemonos.org/el-laboratorio-continental-del-caos-america-latina-ante-la-nueva-doctrina-imperial/</link>
       <guid isPermaLink="false">dc1fcaad64901d8d</guid>
       <pubDate>Sun, 05 Jul 2026 07:16:07 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/dc1fcaad64901d8d.mp3" length="6375312" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/dc1fcaad64901d8d.mp3" length="6375312" type="audio/mpeg"/>
     </item>
     <item>
       <title>Una estafa piramidal llamada universidad</title>
@@ -85,7 +157,15 @@
       <link>https://desinformemonos.org/una-estafa-piramidal-llamada-universidad/</link>
       <guid isPermaLink="false">8347b0f901cab794</guid>
       <pubDate>Sun, 05 Jul 2026 07:15:08 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/desinfoopinion/episodios/8347b0f901cab794.mp3" length="3258864" type="audio/mpeg"/>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/8347b0f901cab794.mp3" length="3258864" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La mejor ayuda para Venezuela es levantar el bloqueo</title>
+      <description>Venezuela – Rebelion — https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</description>
+      <link>https://rebelion.org/la-mejor-ayuda-para-venezuela-es-levantar-el-bloqueo/</link>
+      <guid isPermaLink="false">9ab010c1c4dc0d72</guid>
+      <pubDate>Sun, 05 Jul 2026 06:04:36 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/9ab010c1c4dc0d72.mp3" length="1422144" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
