@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>EE. UU., aranceles e ingeniería política en Brasil</title>
+      <description>Economía – Rebelion — https://rebelion.org/ee-uu-aranceles-e-ingenieria-politica-en-brasil/</description>
+      <link>https://rebelion.org/ee-uu-aranceles-e-ingenieria-politica-en-brasil/</link>
+      <guid isPermaLink="false">3af20f58fe18876b</guid>
+      <pubDate>Mon, 20 Jul 2026 17:13:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/3af20f58fe18876b.mp3" length="4695984" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Palantir, la empresa más peligrosa del mundo</title>
       <description>Economía – Rebelion — https://rebelion.org/palantir-la-empresa-mas-peligrosa-del-mundo/</description>
       <link>https://rebelion.org/palantir-la-empresa-mas-peligrosa-del-mundo/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">1d4d6b488772f130</guid>
       <pubDate>Sun, 05 Jul 2026 22:15:45 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/1d4d6b488772f130.mp3" length="6503040" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Modificación de ley de tierras en Argentina: impactos directos para la soberanía alimentaria</title>
-      <description>opinión – Desinformémonos — https://desinformemonos.org/modificacion-de-ley-de-tierras-en-argentina-impactos-directos-para-la-soberania-alimentaria/</description>
-      <link>https://desinformemonos.org/modificacion-de-ley-de-tierras-en-argentina-impactos-directos-para-la-soberania-alimentaria/</link>
-      <guid isPermaLink="false">5c627a3abe38bcc3</guid>
-      <pubDate>Sun, 05 Jul 2026 07:19:50 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/5c627a3abe38bcc3.mp3" length="2627856" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
