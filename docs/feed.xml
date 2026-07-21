@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Las camisetas de la vergüenza</title>
+      <description>Economía – Rebelion — https://rebelion.org/las-camisetas-de-la-verguenza/</description>
+      <link>https://rebelion.org/las-camisetas-de-la-verguenza/</link>
+      <guid isPermaLink="false">80373ac94fb447ad</guid>
+      <pubDate>Tue, 21 Jul 2026 17:01:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/80373ac94fb447ad.mp3" length="3476736" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>EE. UU., aranceles e ingeniería política en Brasil</title>
       <description>Economía – Rebelion — https://rebelion.org/ee-uu-aranceles-e-ingenieria-politica-en-brasil/</description>
       <link>https://rebelion.org/ee-uu-aranceles-e-ingenieria-politica-en-brasil/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">5a34cb743f235f07</guid>
       <pubDate>Sun, 05 Jul 2026 22:16:08 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/5a34cb743f235f07.mp3" length="2030544" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«Es posible tener modelos de desarrollo distintos al que nos ofrece el capitalismo»</title>
-      <description>Economía – Rebelion — https://rebelion.org/es-posible-tener-modelos-de-desarrollo-distintos-al-que-nos-ofrece-el-capitalismo/</description>
-      <link>https://rebelion.org/es-posible-tener-modelos-de-desarrollo-distintos-al-que-nos-ofrece-el-capitalismo/</link>
-      <guid isPermaLink="false">1d4d6b488772f130</guid>
-      <pubDate>Sun, 05 Jul 2026 22:15:45 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/1d4d6b488772f130.mp3" length="6503040" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
