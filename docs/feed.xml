@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La desaceleración de China</title>
+      <description>Economía – Rebelion — https://rebelion.org/la-desaceleracion-de-china/</description>
+      <link>https://rebelion.org/la-desaceleracion-de-china/</link>
+      <guid isPermaLink="false">77de616961edc2c0</guid>
+      <pubDate>Thu, 23 Jul 2026 17:05:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/77de616961edc2c0.mp3" length="4677552" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>China y el futuro del socialismo</title>
       <description>Economía – Rebelion — https://rebelion.org/china-y-el-futuro-del-socialismo/</description>
       <link>https://rebelion.org/china-y-el-futuro-del-socialismo/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">29744fe51b7997cd</guid>
       <pubDate>Sun, 05 Jul 2026 22:20:06 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/29744fe51b7997cd.mp3" length="14635152" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Del petróleo al hidrógeno: la reconfiguración del poder mundial</title>
-      <description>Economía – Rebelion — https://rebelion.org/del-petroleo-al-hidrogeno-la-reconfiguracion-del-poder-mundial/</description>
-      <link>https://rebelion.org/del-petroleo-al-hidrogeno-la-reconfiguracion-del-poder-mundial/</link>
-      <guid isPermaLink="false">0083670845b36eca</guid>
-      <pubDate>Sun, 05 Jul 2026 22:17:12 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/0083670845b36eca.mp3" length="2011680" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
