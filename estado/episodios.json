@@ -1,5 +1,23 @@
 [
   {
+    "id": "f8e1714648ccdf09",
+    "titulo": "Cuando la realidad también nos despierta a construir una conciencia social-cooperativa",
+    "fuente": "Economía – Rebelion",
+    "enlace": "https://rebelion.org/cuando-la-realidad-tambien-nos-despierta-a-construir-una-conciencia-social-cooperativa/",
+    "archivo": "f8e1714648ccdf09.mp3",
+    "bytes": 1361088,
+    "timestamp": 1785175372
+  },
+  {
+    "id": "6205c8940030f970",
+    "titulo": "El largo adiós al dólar estadounidense",
+    "fuente": "Economía – Rebelion",
+    "enlace": "https://rebelion.org/el-largo-adios-al-dolar-estadounidense/",
+    "archivo": "6205c8940030f970.mp3",
+    "bytes": 3947040,
+    "timestamp": 1785175349
+  },
+  {
     "id": "07449c2b95530e72",
     "titulo": "¿Quién paga por Ucrania?",
     "fuente": "Economía – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "0eff7a378ed680eb.mp3",
     "bytes": 7292304,
     "timestamp": 1783290199
-  },
-  {
-    "id": "2f4e40460e17558e",
-    "titulo": "¿A quién pertenece la inteligencia artificial?",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/a-quien-pertenece-la-inteligencia-artificial/",
-    "archivo": "2f4e40460e17558e.mp3",
-    "bytes": 3952512,
-    "timestamp": 1783290130
-  },
-  {
-    "id": "c16301c7849d9259",
-    "titulo": "El Sur no puede decir no: eso se llama dominación, no desarrollo",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/el-sur-no-puede-decir-no-eso-se-llama-dominacion-no-desarrollo/",
-    "archivo": "c16301c7849d9259.mp3",
-    "bytes": 5106240,
-    "timestamp": 1783290109
   }
 ]
