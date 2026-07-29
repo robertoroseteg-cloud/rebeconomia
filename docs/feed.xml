@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Friedrich Engels nos enseñó cómo podemos hacer historia</title>
+      <description>Economía – Rebelion — https://rebelion.org/friedrich-engels-nos-enseno-como-podemos-hacer-historia/</description>
+      <link>https://rebelion.org/friedrich-engels-nos-enseno-como-podemos-hacer-historia/</link>
+      <guid isPermaLink="false">749ff7971fa3491b</guid>
+      <pubDate>Wed, 29 Jul 2026 16:55:18 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/749ff7971fa3491b.mp3" length="346176" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Costos mundiales de la guerra contra Irán</title>
+      <description>Economía – Rebelion — https://rebelion.org/costos-mundiales-de-la-guerra-contra-iran/</description>
+      <link>https://rebelion.org/costos-mundiales-de-la-guerra-contra-iran/</link>
+      <guid isPermaLink="false">bf18eb9413ea8bda</guid>
+      <pubDate>Wed, 29 Jul 2026 16:55:13 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/bf18eb9413ea8bda.mp3" length="3184560" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Sanciones UE a Rusia: pérdidas sociales vs. ganancias corporativas</title>
       <description>Economía – Rebelion — https://rebelion.org/sanciones-ue-a-rusia-perdidas-sociales-vs-ganancias-corporativas/</description>
       <link>https://rebelion.org/sanciones-ue-a-rusia-perdidas-sociales-vs-ganancias-corporativas/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">696dbbc76eddbed0</guid>
       <pubDate>Sun, 19 Jul 2026 06:57:16 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/696dbbc76eddbed0.mp3" length="4704912" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El interminable descenso a los infiernos de Volkswagen</title>
-      <description>Economía – Rebelion — https://rebelion.org/el-interminable-descenso-a-los-infiernos-de-volkswagen/</description>
-      <link>https://rebelion.org/el-interminable-descenso-a-los-infiernos-de-volkswagen/</link>
-      <guid isPermaLink="false">98d45df711507c69</guid>
-      <pubDate>Sun, 19 Jul 2026 06:56:22 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/98d45df711507c69.mp3" length="5450832" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>California votará la creación de un impuesto para ultrarricos</title>
-      <description>Economía – Rebelion — https://rebelion.org/california-votara-la-creacion-de-un-impuesto-para-ultrarricos/</description>
-      <link>https://rebelion.org/california-votara-la-creacion-de-un-impuesto-para-ultrarricos/</link>
-      <guid isPermaLink="false">a5e379345c822cc9</guid>
-      <pubDate>Sun, 19 Jul 2026 06:54:58 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/a5e379345c822cc9.mp3" length="3214800" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
