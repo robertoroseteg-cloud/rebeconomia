@@ -1,5 +1,32 @@
 [
   {
+    "id": "6cb0a68d1ddf403f",
+    "titulo": "A sangre fría,  julio de 2026",
+    "fuente": "Economía – Rebelion",
+    "enlace": "https://rebelion.org/a-sangre-fria-julio-de-2026/",
+    "archivo": "6cb0a68d1ddf403f.mp3",
+    "bytes": 11915568,
+    "timestamp": 1786369460
+  },
+  {
+    "id": "c1d79f6ca7a1b4e4",
+    "titulo": "IA: del sueño tecnológico al riesgo sistémico",
+    "fuente": "Economía – Rebelion",
+    "enlace": "https://rebelion.org/ia-del-sueno-tecnologico-al-riesgo-sistemico/",
+    "archivo": "c1d79f6ca7a1b4e4.mp3",
+    "bytes": 5570928,
+    "timestamp": 1786369317
+  },
+  {
+    "id": "e08bd4c2cb71907d",
+    "titulo": "El temporalismo extractivo",
+    "fuente": "Economía – Rebelion",
+    "enlace": "https://rebelion.org/el-temporalismo-extractivo/",
+    "archivo": "e08bd4c2cb71907d.mp3",
+    "bytes": 13138416,
+    "timestamp": 1786369255
+  },
+  {
     "id": "dd06a44d46d40525",
     "titulo": "Reforcemos la lucha contra las deudas ilegítimas, el patriarcado, el capitalismo ecocida, el neofascismo y las agresiones imperialistas",
     "fuente": "Economía – Rebelion",
@@ -151,32 +178,5 @@
     "archivo": "6205c8940030f970.mp3",
     "bytes": 3947040,
     "timestamp": 1785175349
-  },
-  {
-    "id": "07449c2b95530e72",
-    "titulo": "¿Quién paga por Ucrania?",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/quien-paga-por-ucrania-deuda-condicionalidad-y-los-limites-de-la-solidaridad-europea/",
-    "archivo": "07449c2b95530e72.mp3",
-    "bytes": 13768128,
-    "timestamp": 1784994741
-  },
-  {
-    "id": "6e345dc6960bb6a0",
-    "titulo": "La trampa de las tierras raras: cómo la deuda y la geopolítica están engullendo a Sri Lanka",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/la-trampa-de-las-tierras-raras-como-la-deuda-y-la-geopolitica-estan-engullendo-a-sri-lanka/",
-    "archivo": "6e345dc6960bb6a0.mp3",
-    "bytes": 5198976,
-    "timestamp": 1784915863
-  },
-  {
-    "id": "77de616961edc2c0",
-    "titulo": "La desaceleración de China",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/la-desaceleracion-de-china/",
-    "archivo": "77de616961edc2c0.mp3",
-    "bytes": 4677552,
-    "timestamp": 1784826338
   }
 ]

@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>A sangre fría,  julio de 2026</title>
+      <description>Economía – Rebelion — https://rebelion.org/a-sangre-fria-julio-de-2026/</description>
+      <link>https://rebelion.org/a-sangre-fria-julio-de-2026/</link>
+      <guid isPermaLink="false">6cb0a68d1ddf403f</guid>
+      <pubDate>Mon, 10 Aug 2026 13:44:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/6cb0a68d1ddf403f.mp3" length="11915568" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>IA: del sueño tecnológico al riesgo sistémico</title>
+      <description>Economía – Rebelion — https://rebelion.org/ia-del-sueno-tecnologico-al-riesgo-sistemico/</description>
+      <link>https://rebelion.org/ia-del-sueno-tecnologico-al-riesgo-sistemico/</link>
+      <guid isPermaLink="false">c1d79f6ca7a1b4e4</guid>
+      <pubDate>Mon, 10 Aug 2026 13:41:57 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/c1d79f6ca7a1b4e4.mp3" length="5570928" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El temporalismo extractivo</title>
+      <description>Economía – Rebelion — https://rebelion.org/el-temporalismo-extractivo/</description>
+      <link>https://rebelion.org/el-temporalismo-extractivo/</link>
+      <guid isPermaLink="false">e08bd4c2cb71907d</guid>
+      <pubDate>Mon, 10 Aug 2026 13:40:55 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/e08bd4c2cb71907d.mp3" length="13138416" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Reforcemos la lucha contra las deudas ilegítimas, el patriarcado, el capitalismo ecocida, el neofascismo y las agresiones imperialistas</title>
       <description>Economía – Rebelion — https://rebelion.org/reforcemos-la-lucha-contra-las-deudas-ilegitimas-el-patriarcado-el-capitalismo-ecocida-el-neofascismo-y-las-agresiones-imperialistas/</description>
       <link>https://rebelion.org/reforcemos-la-lucha-contra-las-deudas-ilegitimas-el-patriarcado-el-capitalismo-ecocida-el-neofascismo-y-las-agresiones-imperialistas/</link>
@@ -142,30 +166,6 @@
       <guid isPermaLink="false">6205c8940030f970</guid>
       <pubDate>Mon, 27 Jul 2026 18:02:29 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/6205c8940030f970.mp3" length="3947040" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Quién paga por Ucrania?</title>
-      <description>Economía – Rebelion — https://rebelion.org/quien-paga-por-ucrania-deuda-condicionalidad-y-los-limites-de-la-solidaridad-europea/</description>
-      <link>https://rebelion.org/quien-paga-por-ucrania-deuda-condicionalidad-y-los-limites-de-la-solidaridad-europea/</link>
-      <guid isPermaLink="false">07449c2b95530e72</guid>
-      <pubDate>Sat, 25 Jul 2026 15:52:21 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/07449c2b95530e72.mp3" length="13768128" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La trampa de las tierras raras: cómo la deuda y la geopolítica están engullendo a Sri Lanka</title>
-      <description>Economía – Rebelion — https://rebelion.org/la-trampa-de-las-tierras-raras-como-la-deuda-y-la-geopolitica-estan-engullendo-a-sri-lanka/</description>
-      <link>https://rebelion.org/la-trampa-de-las-tierras-raras-como-la-deuda-y-la-geopolitica-estan-engullendo-a-sri-lanka/</link>
-      <guid isPermaLink="false">6e345dc6960bb6a0</guid>
-      <pubDate>Fri, 24 Jul 2026 17:57:43 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/6e345dc6960bb6a0.mp3" length="5198976" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La desaceleración de China</title>
-      <description>Economía – Rebelion — https://rebelion.org/la-desaceleracion-de-china/</description>
-      <link>https://rebelion.org/la-desaceleracion-de-china/</link>
-      <guid isPermaLink="false">77de616961edc2c0</guid>
-      <pubDate>Thu, 23 Jul 2026 17:05:38 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/77de616961edc2c0.mp3" length="4677552" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
