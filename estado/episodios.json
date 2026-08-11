@@ -1,5 +1,14 @@
 [
   {
+    "id": "8e542b3808566d4c",
+    "titulo": "China y Estados Unidos convierten los laboratorios de biotecnología en un nuevo campo de batalla",
+    "fuente": "Economía – Rebelion",
+    "enlace": "https://rebelion.org/china-y-estados-unidos-convierten-los-laboratorios-de-biotecnologia-en-un-nuevo-campo-de-batalla/",
+    "archivo": "8e542b3808566d4c.mp3",
+    "bytes": 2384064,
+    "timestamp": 1786455418
+  },
+  {
     "id": "6cb0a68d1ddf403f",
     "titulo": "A sangre fría,  julio de 2026",
     "fuente": "Economía – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "f8e1714648ccdf09.mp3",
     "bytes": 1361088,
     "timestamp": 1785175372
-  },
-  {
-    "id": "6205c8940030f970",
-    "titulo": "El largo adiós al dólar estadounidense",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/el-largo-adios-al-dolar-estadounidense/",
-    "archivo": "6205c8940030f970.mp3",
-    "bytes": 3947040,
-    "timestamp": 1785175349
   }
 ]
