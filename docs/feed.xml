@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La última línea de defensa del dólar</title>
+      <description>Economía – Rebelion — https://rebelion.org/la-ultima-linea-de-defensa-del-dolar/</description>
+      <link>https://rebelion.org/la-ultima-linea-de-defensa-del-dolar/</link>
+      <guid isPermaLink="false">5e10166d8e54ec3c</guid>
+      <pubDate>Fri, 14 Aug 2026 13:40:42 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/5e10166d8e54ec3c.mp3" length="21249072" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los supermercados públicos de Mamdani son un proyecto serio</title>
       <description>Economía – Rebelion — https://rebelion.org/los-supermercados-publicos-de-mamdani-son-un-proyecto-serio/</description>
       <link>https://rebelion.org/los-supermercados-publicos-de-mamdani-son-un-proyecto-serio/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">749ff7971fa3491b</guid>
       <pubDate>Wed, 29 Jul 2026 16:55:18 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/749ff7971fa3491b.mp3" length="346176" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Costos mundiales de la guerra contra Irán</title>
-      <description>Economía – Rebelion — https://rebelion.org/costos-mundiales-de-la-guerra-contra-iran/</description>
-      <link>https://rebelion.org/costos-mundiales-de-la-guerra-contra-iran/</link>
-      <guid isPermaLink="false">bf18eb9413ea8bda</guid>
-      <pubDate>Wed, 29 Jul 2026 16:55:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/bf18eb9413ea8bda.mp3" length="3184560" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
