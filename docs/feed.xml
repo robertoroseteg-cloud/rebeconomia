@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Cómo el capitalismo socava la democracia</title>
+      <description>Economía – Rebelion — https://rebelion.org/como-el-capitalismo-socava-la-democracia/</description>
+      <link>https://rebelion.org/como-el-capitalismo-socava-la-democracia/</link>
+      <guid isPermaLink="false">3a878873b4fe5ed8</guid>
+      <pubDate>Sat, 15 Aug 2026 12:58:44 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/3a878873b4fe5ed8.mp3" length="16527168" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La última línea de defensa del dólar</title>
       <description>Economía – Rebelion — https://rebelion.org/la-ultima-linea-de-defensa-del-dolar/</description>
       <link>https://rebelion.org/la-ultima-linea-de-defensa-del-dolar/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">cc1bd1f2e576712f</guid>
       <pubDate>Thu, 30 Jul 2026 14:29:06 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/cc1bd1f2e576712f.mp3" length="4547376" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Friedrich Engels nos enseñó cómo podemos hacer historia</title>
-      <description>Economía – Rebelion — https://rebelion.org/friedrich-engels-nos-enseno-como-podemos-hacer-historia/</description>
-      <link>https://rebelion.org/friedrich-engels-nos-enseno-como-podemos-hacer-historia/</link>
-      <guid isPermaLink="false">749ff7971fa3491b</guid>
-      <pubDate>Wed, 29 Jul 2026 16:55:18 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/749ff7971fa3491b.mp3" length="346176" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
