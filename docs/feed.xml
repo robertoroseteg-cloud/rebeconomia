@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La fractura del Cono Sur</title>
+      <description>Economía – Rebelion — https://rebelion.org/la-fractura-del-cono-sur/</description>
+      <link>https://rebelion.org/la-fractura-del-cono-sur/</link>
+      <guid isPermaLink="false">fa5aec3f8e7433c3</guid>
+      <pubDate>Thu, 20 Aug 2026 13:08:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/fa5aec3f8e7433c3.mp3" length="5336352" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Tesla en Suecia: no ha sido una derrota sindical, ha sido una lección</title>
       <description>Economía – Rebelion — https://rebelion.org/tesla-en-suecia-no-ha-sido-una-derrota-sindical-ha-sido-una-leccion/</description>
       <link>https://rebelion.org/tesla-en-suecia-no-ha-sido-una-derrota-sindical-ha-sido-una-leccion/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">7f33ee86c3b4324a</guid>
       <pubDate>Tue, 04 Aug 2026 14:36:53 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/7f33ee86c3b4324a.mp3" length="4039632" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Unión Europea: ¿capitalismo rentista empresarial?</title>
-      <description>Economía – Rebelion — https://rebelion.org/union-europea-capitalismo-rentista-empresarial/</description>
-      <link>https://rebelion.org/union-europea-capitalismo-rentista-empresarial/</link>
-      <guid isPermaLink="false">173c0a239b64fb48</guid>
-      <pubDate>Mon, 03 Aug 2026 15:14:00 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/173c0a239b64fb48.mp3" length="464256" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
