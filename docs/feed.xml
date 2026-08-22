@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La liberalización comercial nunca benefició a todos</title>
+      <description>Economía – Rebelion — https://rebelion.org/la-liberalizacion-comercial-nunca-beneficio-a-todos/</description>
+      <link>https://rebelion.org/la-liberalizacion-comercial-nunca-beneficio-a-todos/</link>
+      <guid isPermaLink="false">99cdce29044a4b69</guid>
+      <pubDate>Sat, 22 Aug 2026 12:58:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/99cdce29044a4b69.mp3" length="2967696" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Aniversarios, capitalismo y vida en Puerto Rico</title>
       <description>Economía – Rebelion — https://rebelion.org/aniversarios-capitalismo-y-vida-en-puerto-rico/</description>
       <link>https://rebelion.org/aniversarios-capitalismo-y-vida-en-puerto-rico/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f89467406a28960e</guid>
       <pubDate>Wed, 05 Aug 2026 14:30:56 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/f89467406a28960e.mp3" length="2333952" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cómo transformar el sistema alimentario sin dejar a nadie atrás</title>
-      <description>Economía – Rebelion — https://rebelion.org/como-transformar-el-sistema-alimentario-sin-dejar-a-nadie-atras/</description>
-      <link>https://rebelion.org/como-transformar-el-sistema-alimentario-sin-dejar-a-nadie-atras/</link>
-      <guid isPermaLink="false">8401456325345b30</guid>
-      <pubDate>Wed, 05 Aug 2026 14:30:37 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/8401456325345b30.mp3" length="7942896" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
