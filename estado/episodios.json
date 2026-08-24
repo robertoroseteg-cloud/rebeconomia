@@ -1,5 +1,23 @@
 [
   {
+    "id": "52b4b984880536c0",
+    "titulo": "La anestesia del subdesarrollo: ¡cómo nos ganó la apatía política, carajo!",
+    "fuente": "Economía – Rebelion",
+    "enlace": "https://rebelion.org/la-anestesia-del-subdesarrollo-como-nos-gano-la-apatia-politica-carajo/",
+    "archivo": "52b4b984880536c0.mp3",
+    "bytes": 1456704,
+    "timestamp": 1787577036
+  },
+  {
+    "id": "b80ac32ca300864f",
+    "titulo": "La deuda y la disputa por el capital mundial",
+    "fuente": "Economía – Rebelion",
+    "enlace": "https://rebelion.org/la-deuda-y-la-disputa-por-el-capital-mundial/",
+    "archivo": "b80ac32ca300864f.mp3",
+    "bytes": 4767408,
+    "timestamp": 1787577019
+  },
+  {
     "id": "99cdce29044a4b69",
     "titulo": "La liberalización comercial nunca benefició a todos",
     "fuente": "Economía – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "49c1e7c90d9e579a.mp3",
     "bytes": 12686832,
     "timestamp": 1786109863
-  },
-  {
-    "id": "6d7e377f2f7113c0",
-    "titulo": "Terremoto monetario en Japón con riesgo de tsunami global",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/terremoto-monetario-en-japon-con-riesgo-de-tsunami-global/",
-    "archivo": "6d7e377f2f7113c0.mp3",
-    "bytes": 5328288,
-    "timestamp": 1786026804
-  },
-  {
-    "id": "f89467406a28960e",
-    "titulo": "Frente a la batalla contracultural de Milei oponemos la praxeología cooperaria",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/frente-a-la-batalla-contracultural-de-milei-oponemos-la-praxeologia-cooperaria/",
-    "archivo": "f89467406a28960e.mp3",
-    "bytes": 2333952,
-    "timestamp": 1785940256
   }
 ]
