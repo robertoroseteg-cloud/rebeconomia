@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Reformar el capitalismo no es suficiente</title>
+      <description>Economía – Rebelion — https://rebelion.org/reformar-el-capitalismo-no-es-suficiente/</description>
+      <link>https://rebelion.org/reformar-el-capitalismo-no-es-suficiente/</link>
+      <guid isPermaLink="false">32db785ebc642fff</guid>
+      <pubDate>Thu, 27 Aug 2026 22:15:59 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/32db785ebc642fff.mp3" length="12510288" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Corea del Sur e India consideran la Ruta del Ártico</title>
       <description>Economía – Rebelion — https://rebelion.org/corea-del-sur-e-india-consideran-la-ruta-del-artico/</description>
       <link>https://rebelion.org/corea-del-sur-e-india-consideran-la-ruta-del-artico/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">8e542b3808566d4c</guid>
       <pubDate>Tue, 11 Aug 2026 13:36:58 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/8e542b3808566d4c.mp3" length="2384064" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>A sangre fría,  julio de 2026</title>
-      <description>Economía – Rebelion — https://rebelion.org/a-sangre-fria-julio-de-2026/</description>
-      <link>https://rebelion.org/a-sangre-fria-julio-de-2026/</link>
-      <guid isPermaLink="false">6cb0a68d1ddf403f</guid>
-      <pubDate>Mon, 10 Aug 2026 13:44:20 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/6cb0a68d1ddf403f.mp3" length="11915568" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

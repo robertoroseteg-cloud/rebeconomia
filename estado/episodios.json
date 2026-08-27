@@ -1,5 +1,14 @@
 [
   {
+    "id": "32db785ebc642fff",
+    "titulo": "Reformar el capitalismo no es suficiente",
+    "fuente": "Economía – Rebelion",
+    "enlace": "https://rebelion.org/reformar-el-capitalismo-no-es-suficiente/",
+    "archivo": "32db785ebc642fff.mp3",
+    "bytes": 12510288,
+    "timestamp": 1787868959
+  },
+  {
     "id": "6b0cbb8f1ee2f4b1",
     "titulo": "Corea del Sur e India consideran la Ruta del Ártico",
     "fuente": "Economía – Rebelion",
@@ -169,14 +178,5 @@
     "archivo": "8e542b3808566d4c.mp3",
     "bytes": 2384064,
     "timestamp": 1786455418
-  },
-  {
-    "id": "6cb0a68d1ddf403f",
-    "titulo": "A sangre fría,  julio de 2026",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/a-sangre-fria-julio-de-2026/",
-    "archivo": "6cb0a68d1ddf403f.mp3",
-    "bytes": 11915568,
-    "timestamp": 1786369460
   }
 ]
