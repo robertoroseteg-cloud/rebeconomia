@@ -1,5 +1,23 @@
 [
   {
+    "id": "a175da3a74cf1824",
+    "titulo": "A sangre fría, agosto de 2026",
+    "fuente": "Economía – Rebelion",
+    "enlace": "https://rebelion.org/a-sangre-fria-agosto-de-2026/",
+    "archivo": "a175da3a74cf1824.mp3",
+    "bytes": 11492208,
+    "timestamp": 1788021768
+  },
+  {
+    "id": "80b700e33b7d16fd",
+    "titulo": "Las amenazas imperiales de Trump contra Irán y el mundo",
+    "fuente": "Economía – Rebelion",
+    "enlace": "https://rebelion.org/las-amenazas-imperiales-de-trump-contra-iran-y-el-mundo/",
+    "archivo": "80b700e33b7d16fd.mp3",
+    "bytes": 1789344,
+    "timestamp": 1788021651
+  },
+  {
     "id": "06e79c0c4e0955b9",
     "titulo": "Las locuras de Trump comienzan a pasar factura",
     "fuente": "Economía – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "3a878873b4fe5ed8.mp3",
     "bytes": 16527168,
     "timestamp": 1786798724
-  },
-  {
-    "id": "5e10166d8e54ec3c",
-    "titulo": "La última línea de defensa del dólar",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/la-ultima-linea-de-defensa-del-dolar/",
-    "archivo": "5e10166d8e54ec3c.mp3",
-    "bytes": 21249072,
-    "timestamp": 1786714842
-  },
-  {
-    "id": "97629d8c97684cd2",
-    "titulo": "Los supermercados públicos de Mamdani son un proyecto serio",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/los-supermercados-publicos-de-mamdani-son-un-proyecto-serio/",
-    "archivo": "97629d8c97684cd2.mp3",
-    "bytes": 4923072,
-    "timestamp": 1786628450
   }
 ]
