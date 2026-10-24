@@ -1,5 +1,23 @@
 [
   {
+    "id": "fce70d3ee434c8a7",
+    "titulo": "El economista Anwar Shaikh, antídoto contra las ilusiones capitalistas",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/el-economista-anwar-shaikh-antidoto-contra-las-ilusiones-capitalistas/",
+    "archivo": "fce70d3ee434c8a7.mp3",
+    "bytes": 4724352,
+    "timestamp": 1792857583
+  },
+  {
+    "id": "1195d81a1f1626c9",
+    "titulo": "La democracia económica es el núcleo del socialismo",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/la-democracia-economica-es-el-nucleo-del-socialismo/",
+    "archivo": "1195d81a1f1626c9.mp3",
+    "bytes": 110016,
+    "timestamp": 1792857193
+  },
+  {
     "id": "1ee18d0f7fd4758a",
     "titulo": "La necesidad de implantación de un impuesto sobre las transacciones financieras como recurso propio europeo",
     "fuente": "Economía – Rebelion",
@@ -160,23 +178,5 @@
     "archivo": "e0e99fcb967ab7ca.mp3",
     "bytes": 2050704,
     "timestamp": 1787144770
-  },
-  {
-    "id": "e072cf6628e29afc",
-    "titulo": "Una nueva mirada para el cooperativismo de Brasil, Argentina, Paraguay y Argentina",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/una-nueva-mirada-para-el-cooperativismo-de-brasil-argentina-paraguay-y-argentina/",
-    "archivo": "e072cf6628e29afc.mp3",
-    "bytes": 2023488,
-    "timestamp": 1787058434
-  },
-  {
-    "id": "99851b29672dec1e",
-    "titulo": "Otra Gaza es posible",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/otra-gaza-es-posible/",
-    "archivo": "99851b29672dec1e.mp3",
-    "bytes": 4734432,
-    "timestamp": 1787058384
   }
 ]
