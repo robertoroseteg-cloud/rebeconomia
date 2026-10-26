@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Karl Marx y la deuda pública: un análisis de actualidad</title>
+      <description>Rebelión · Economía — https://rebelion.org/karl-marx-y-la-deuda-publica-un-analisis-de-actualidad/</description>
+      <link>https://rebelion.org/karl-marx-y-la-deuda-publica-un-analisis-de-actualidad/</link>
+      <guid isPermaLink="false">f2764d105bd2f2a4</guid>
+      <pubDate>Mon, 26 Oct 2026 18:40:17 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/f2764d105bd2f2a4.mp3" length="554976" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Los bufones del poder y el poder de los bufones</title>
+      <description>Rebelión · Economía — https://rebelion.org/los-bufones-del-poder-y-el-poder-de-los-bufones/</description>
+      <link>https://rebelion.org/los-bufones-del-poder-y-el-poder-de-los-bufones/</link>
+      <guid isPermaLink="false">fed8cc2b621fe624</guid>
+      <pubDate>Mon, 26 Oct 2026 18:40:02 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/fed8cc2b621fe624.mp3" length="5020272" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El economista Anwar Shaikh, antídoto contra las ilusiones capitalistas</title>
       <description>Rebelión · Economía — https://rebelion.org/el-economista-anwar-shaikh-antidoto-contra-las-ilusiones-capitalistas/</description>
       <link>https://rebelion.org/el-economista-anwar-shaikh-antidoto-contra-las-ilusiones-capitalistas/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">aecae48b7e3fd822</guid>
       <pubDate>Fri, 21 Aug 2026 13:07:59 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/aecae48b7e3fd822.mp3" length="5699664" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La fractura del Cono Sur</title>
-      <description>Economía – Rebelion — https://rebelion.org/la-fractura-del-cono-sur/</description>
-      <link>https://rebelion.org/la-fractura-del-cono-sur/</link>
-      <guid isPermaLink="false">fa5aec3f8e7433c3</guid>
-      <pubDate>Thu, 20 Aug 2026 13:08:38 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/fa5aec3f8e7433c3.mp3" length="5336352" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Tesla en Suecia: no ha sido una derrota sindical, ha sido una lección</title>
-      <description>Economía – Rebelion — https://rebelion.org/tesla-en-suecia-no-ha-sido-una-derrota-sindical-ha-sido-una-leccion/</description>
-      <link>https://rebelion.org/tesla-en-suecia-no-ha-sido-una-derrota-sindical-ha-sido-una-leccion/</link>
-      <guid isPermaLink="false">e0e99fcb967ab7ca</guid>
-      <pubDate>Wed, 19 Aug 2026 13:06:10 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/e0e99fcb967ab7ca.mp3" length="2050704" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

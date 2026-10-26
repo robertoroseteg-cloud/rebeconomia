@@ -1,5 +1,23 @@
 [
   {
+    "id": "f2764d105bd2f2a4",
+    "titulo": "Karl Marx y la deuda pública: un análisis de actualidad",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/karl-marx-y-la-deuda-publica-un-analisis-de-actualidad/",
+    "archivo": "f2764d105bd2f2a4.mp3",
+    "bytes": 554976,
+    "timestamp": 1793040017
+  },
+  {
+    "id": "fed8cc2b621fe624",
+    "titulo": "Los bufones del poder y el poder de los bufones",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/los-bufones-del-poder-y-el-poder-de-los-bufones/",
+    "archivo": "fed8cc2b621fe624.mp3",
+    "bytes": 5020272,
+    "timestamp": 1793040002
+  },
+  {
     "id": "fce70d3ee434c8a7",
     "titulo": "El economista Anwar Shaikh, antídoto contra las ilusiones capitalistas",
     "fuente": "Rebelión · Economía",
@@ -160,23 +178,5 @@
     "archivo": "aecae48b7e3fd822.mp3",
     "bytes": 5699664,
     "timestamp": 1787317679
-  },
-  {
-    "id": "fa5aec3f8e7433c3",
-    "titulo": "La fractura del Cono Sur",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/la-fractura-del-cono-sur/",
-    "archivo": "fa5aec3f8e7433c3.mp3",
-    "bytes": 5336352,
-    "timestamp": 1787231318
-  },
-  {
-    "id": "e0e99fcb967ab7ca",
-    "titulo": "Tesla en Suecia: no ha sido una derrota sindical, ha sido una lección",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/tesla-en-suecia-no-ha-sido-una-derrota-sindical-ha-sido-una-leccion/",
-    "archivo": "e0e99fcb967ab7ca.mp3",
-    "bytes": 2050704,
-    "timestamp": 1787144770
   }
 ]
