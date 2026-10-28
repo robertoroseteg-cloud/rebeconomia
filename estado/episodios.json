@@ -1,5 +1,23 @@
 [
   {
+    "id": "0d1c419c3af651ae",
+    "titulo": "Los bancos centrales bajo escrutinio",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/los-bancos-centrales-bajo-escrutinio/",
+    "archivo": "0d1c419c3af651ae.mp3",
+    "bytes": 2386224,
+    "timestamp": 1793211680
+  },
+  {
+    "id": "64a39fc77d5803f7",
+    "titulo": "Anwar Shaikh me cambió la vida",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/anwar-shaikh-me-cambio-la-vida/",
+    "archivo": "64a39fc77d5803f7.mp3",
+    "bytes": 2971440,
+    "timestamp": 1793211605
+  },
+  {
     "id": "f2764d105bd2f2a4",
     "titulo": "Karl Marx y la deuda pública: un análisis de actualidad",
     "fuente": "Rebelión · Economía",
@@ -160,23 +178,5 @@
     "archivo": "99cdce29044a4b69.mp3",
     "bytes": 2967696,
     "timestamp": 1787403485
-  },
-  {
-    "id": "33985bce1d468def",
-    "titulo": "Aniversarios, capitalismo y vida en Puerto Rico",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/aniversarios-capitalismo-y-vida-en-puerto-rico/",
-    "archivo": "33985bce1d468def.mp3",
-    "bytes": 3569760,
-    "timestamp": 1787317764
-  },
-  {
-    "id": "aecae48b7e3fd822",
-    "titulo": "Rusia abandona el dólar y se pasa al yuan, ¿es bueno, malo o todo lo contrario?",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/rusia-abandona-el-dolar-y-se-pasa-al-yuan-es-bueno-malo-o-todo-lo-contrario/",
-    "archivo": "aecae48b7e3fd822.mp3",
-    "bytes": 5699664,
-    "timestamp": 1787317679
   }
 ]
