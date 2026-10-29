@@ -1,5 +1,23 @@
 [
   {
+    "id": "db0e0b7d1c7c785a",
+    "titulo": "A sangre fría (octubre de 2026)",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/a-sangre-fria-octubre-de-2026/",
+    "archivo": "db0e0b7d1c7c785a.mp3",
+    "bytes": 13323168,
+    "timestamp": 1793298647
+  },
+  {
+    "id": "3a2e7219f77e963a",
+    "titulo": "Un Premio Nobel por «mover la economía en la dirección correcta»",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/un-premio-nobel-por-mover-la-economia-en-la-direccion-correcta/",
+    "archivo": "3a2e7219f77e963a.mp3",
+    "bytes": 6037488,
+    "timestamp": 1793298408
+  },
+  {
     "id": "0d1c419c3af651ae",
     "titulo": "Los bancos centrales bajo escrutinio",
     "fuente": "Rebelión · Economía",
@@ -160,23 +178,5 @@
     "archivo": "52b4b984880536c0.mp3",
     "bytes": 1456704,
     "timestamp": 1787577036
-  },
-  {
-    "id": "b80ac32ca300864f",
-    "titulo": "La deuda y la disputa por el capital mundial",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/la-deuda-y-la-disputa-por-el-capital-mundial/",
-    "archivo": "b80ac32ca300864f.mp3",
-    "bytes": 4767408,
-    "timestamp": 1787577019
-  },
-  {
-    "id": "99cdce29044a4b69",
-    "titulo": "La liberalización comercial nunca benefició a todos",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/la-liberalizacion-comercial-nunca-beneficio-a-todos/",
-    "archivo": "99cdce29044a4b69.mp3",
-    "bytes": 2967696,
-    "timestamp": 1787403485
   }
 ]

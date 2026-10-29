@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>A sangre fría (octubre de 2026)</title>
+      <description>Rebelión · Economía — https://rebelion.org/a-sangre-fria-octubre-de-2026/</description>
+      <link>https://rebelion.org/a-sangre-fria-octubre-de-2026/</link>
+      <guid isPermaLink="false">db0e0b7d1c7c785a</guid>
+      <pubDate>Thu, 29 Oct 2026 18:30:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/db0e0b7d1c7c785a.mp3" length="13323168" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Un Premio Nobel por «mover la economía en la dirección correcta»</title>
+      <description>Rebelión · Economía — https://rebelion.org/un-premio-nobel-por-mover-la-economia-en-la-direccion-correcta/</description>
+      <link>https://rebelion.org/un-premio-nobel-por-mover-la-economia-en-la-direccion-correcta/</link>
+      <guid isPermaLink="false">3a2e7219f77e963a</guid>
+      <pubDate>Thu, 29 Oct 2026 18:26:48 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/3a2e7219f77e963a.mp3" length="6037488" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los bancos centrales bajo escrutinio</title>
       <description>Rebelión · Economía — https://rebelion.org/los-bancos-centrales-bajo-escrutinio/</description>
       <link>https://rebelion.org/los-bancos-centrales-bajo-escrutinio/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">52b4b984880536c0</guid>
       <pubDate>Mon, 24 Aug 2026 13:10:36 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/52b4b984880536c0.mp3" length="1456704" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La deuda y la disputa por el capital mundial</title>
-      <description>Economía – Rebelion — https://rebelion.org/la-deuda-y-la-disputa-por-el-capital-mundial/</description>
-      <link>https://rebelion.org/la-deuda-y-la-disputa-por-el-capital-mundial/</link>
-      <guid isPermaLink="false">b80ac32ca300864f</guid>
-      <pubDate>Mon, 24 Aug 2026 13:10:19 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/b80ac32ca300864f.mp3" length="4767408" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La liberalización comercial nunca benefició a todos</title>
-      <description>Economía – Rebelion — https://rebelion.org/la-liberalizacion-comercial-nunca-beneficio-a-todos/</description>
-      <link>https://rebelion.org/la-liberalizacion-comercial-nunca-beneficio-a-todos/</link>
-      <guid isPermaLink="false">99cdce29044a4b69</guid>
-      <pubDate>Sat, 22 Aug 2026 12:58:05 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/99cdce29044a4b69.mp3" length="2967696" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
