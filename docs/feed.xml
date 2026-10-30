@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Brasil: la batalla acaba de comenzar</title>
+      <description>Rebelión · Economía — https://rebelion.org/brasil-la-batalla-acaba-de-comenzar/</description>
+      <link>https://rebelion.org/brasil-la-batalla-acaba-de-comenzar/</link>
+      <guid isPermaLink="false">0df32f511790cfd9</guid>
+      <pubDate>Fri, 30 Oct 2026 17:59:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/0df32f511790cfd9.mp3" length="3262608" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>A sangre fría (octubre de 2026)</title>
       <description>Rebelión · Economía — https://rebelion.org/a-sangre-fria-octubre-de-2026/</description>
       <link>https://rebelion.org/a-sangre-fria-octubre-de-2026/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">cca3729a2f4b75e6</guid>
       <pubDate>Tue, 25 Aug 2026 13:08:38 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/cca3729a2f4b75e6.mp3" length="4386816" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La anestesia del subdesarrollo: ¡cómo nos ganó la apatía política, carajo!</title>
-      <description>Economía – Rebelion — https://rebelion.org/la-anestesia-del-subdesarrollo-como-nos-gano-la-apatia-politica-carajo/</description>
-      <link>https://rebelion.org/la-anestesia-del-subdesarrollo-como-nos-gano-la-apatia-politica-carajo/</link>
-      <guid isPermaLink="false">52b4b984880536c0</guid>
-      <pubDate>Mon, 24 Aug 2026 13:10:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/52b4b984880536c0.mp3" length="1456704" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

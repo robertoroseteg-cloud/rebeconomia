@@ -1,5 +1,14 @@
 [
   {
+    "id": "0df32f511790cfd9",
+    "titulo": "Brasil: la batalla acaba de comenzar",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/brasil-la-batalla-acaba-de-comenzar/",
+    "archivo": "0df32f511790cfd9.mp3",
+    "bytes": 3262608,
+    "timestamp": 1793383140
+  },
+  {
     "id": "db0e0b7d1c7c785a",
     "titulo": "A sangre fría (octubre de 2026)",
     "fuente": "Rebelión · Economía",
@@ -169,14 +178,5 @@
     "archivo": "cca3729a2f4b75e6.mp3",
     "bytes": 4386816,
     "timestamp": 1787663318
-  },
-  {
-    "id": "52b4b984880536c0",
-    "titulo": "La anestesia del subdesarrollo: ¡cómo nos ganó la apatía política, carajo!",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/la-anestesia-del-subdesarrollo-como-nos-gano-la-apatia-politica-carajo/",
-    "archivo": "52b4b984880536c0.mp3",
-    "bytes": 1456704,
-    "timestamp": 1787577036
   }
 ]
