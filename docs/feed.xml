@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Huelga, sujeto y utopía «positiva»</title>
+      <description>Rebelión · Economía — https://rebelion.org/huelga-sujeto-y-utopia-positiva/</description>
+      <link>https://rebelion.org/huelga-sujeto-y-utopia-positiva/</link>
+      <guid isPermaLink="false">3ff7b05ece00bb8b</guid>
+      <pubDate>Sat, 31 Oct 2026 17:16:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/3ff7b05ece00bb8b.mp3" length="8676864" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Brasil: la batalla acaba de comenzar</title>
       <description>Rebelión · Economía — https://rebelion.org/brasil-la-batalla-acaba-de-comenzar/</description>
       <link>https://rebelion.org/brasil-la-batalla-acaba-de-comenzar/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">a5687ba70ded35d0</guid>
       <pubDate>Tue, 25 Aug 2026 13:08:41 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/a5687ba70ded35d0.mp3" length="266400" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las raíces del capitalismo pasan por la esclavitud</title>
-      <description>Economía – Rebelion — https://rebelion.org/las-raices-del-capitalismo-pasan-por-la-esclavitud/</description>
-      <link>https://rebelion.org/las-raices-del-capitalismo-pasan-por-la-esclavitud/</link>
-      <guid isPermaLink="false">cca3729a2f4b75e6</guid>
-      <pubDate>Tue, 25 Aug 2026 13:08:38 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/cca3729a2f4b75e6.mp3" length="4386816" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>

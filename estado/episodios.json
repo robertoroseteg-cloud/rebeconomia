@@ -1,5 +1,14 @@
 [
   {
+    "id": "3ff7b05ece00bb8b",
+    "titulo": "Huelga, sujeto y utopía «positiva»",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/huelga-sujeto-y-utopia-positiva/",
+    "archivo": "3ff7b05ece00bb8b.mp3",
+    "bytes": 8676864,
+    "timestamp": 1793466980
+  },
+  {
     "id": "0df32f511790cfd9",
     "titulo": "Brasil: la batalla acaba de comenzar",
     "fuente": "Rebelión · Economía",
@@ -169,14 +178,5 @@
     "archivo": "a5687ba70ded35d0.mp3",
     "bytes": 266400,
     "timestamp": 1787663321
-  },
-  {
-    "id": "cca3729a2f4b75e6",
-    "titulo": "Las raíces del capitalismo pasan por la esclavitud",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/las-raices-del-capitalismo-pasan-por-la-esclavitud/",
-    "archivo": "cca3729a2f4b75e6.mp3",
-    "bytes": 4386816,
-    "timestamp": 1787663318
   }
 ]
