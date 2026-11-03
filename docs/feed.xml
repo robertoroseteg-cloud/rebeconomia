@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El mundo del «Made in China»</title>
+      <description>Rebelión · Economía — https://rebelion.org/el-mundo-del-made-in-china/</description>
+      <link>https://rebelion.org/el-mundo-del-made-in-china/</link>
+      <guid isPermaLink="false">411566fcb16242f9</guid>
+      <pubDate>Tue, 03 Nov 2026 19:30:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/411566fcb16242f9.mp3" length="1579968" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Keynes y la promesa de liberarnos del trabajo</title>
+      <description>Rebelión · Economía — https://rebelion.org/keynes-y-la-promesa-de-liberarnos-del-trabajo/</description>
+      <link>https://rebelion.org/keynes-y-la-promesa-de-liberarnos-del-trabajo/</link>
+      <guid isPermaLink="false">139b9bef714b10be</guid>
+      <pubDate>Tue, 03 Nov 2026 19:30:23 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/139b9bef714b10be.mp3" length="9307296" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>No queremos sobrevivir al neoliberalismo genocida, queremos una transformación cooperativa de la sociedad argentina</title>
       <description>Rebelión · Economía — https://rebelion.org/no-queremos-sobrevivir-al-neoliberalismo-genocida-queremos-una-transformacion-cooperativa-de-la-sociedad-argentina/</description>
       <link>https://rebelion.org/no-queremos-sobrevivir-al-neoliberalismo-genocida-queremos-una-transformacion-cooperativa-de-la-sociedad-argentina/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">9efc013abeb4bfd9</guid>
       <pubDate>Fri, 28 Aug 2026 22:16:03 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/9efc013abeb4bfd9.mp3" length="7910784" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Reformar el capitalismo no es suficiente</title>
-      <description>Economía – Rebelion — https://rebelion.org/reformar-el-capitalismo-no-es-suficiente/</description>
-      <link>https://rebelion.org/reformar-el-capitalismo-no-es-suficiente/</link>
-      <guid isPermaLink="false">32db785ebc642fff</guid>
-      <pubDate>Thu, 27 Aug 2026 22:15:59 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/32db785ebc642fff.mp3" length="12510288" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Corea del Sur e India consideran la Ruta del Ártico</title>
-      <description>Economía – Rebelion — https://rebelion.org/corea-del-sur-e-india-consideran-la-ruta-del-artico/</description>
-      <link>https://rebelion.org/corea-del-sur-e-india-consideran-la-ruta-del-artico/</link>
-      <guid isPermaLink="false">6b0cbb8f1ee2f4b1</guid>
-      <pubDate>Wed, 26 Aug 2026 13:14:08 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/6b0cbb8f1ee2f4b1.mp3" length="2216448" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
