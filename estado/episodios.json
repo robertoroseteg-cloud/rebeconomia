@@ -1,5 +1,23 @@
 [
   {
+    "id": "948e692ae70cd811",
+    "titulo": "África decide: el nuevo equilibrio entre Rusia y Europa",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/africa-decide-el-nuevo-equilibrio-entre-rusia-y-europa/",
+    "archivo": "948e692ae70cd811.mp3",
+    "bytes": 2974032,
+    "timestamp": 1793821408
+  },
+  {
+    "id": "eeaeb0154d9bf765",
+    "titulo": "Capitalismo, cooperación Sur-Sur… se habla mucho se concreta poco",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/capitalismo-cooperacion-sur-sur-se-habla-mucho-se-concreta-poco-pero-se-mejora-algo/",
+    "archivo": "eeaeb0154d9bf765.mp3",
+    "bytes": 3627504,
+    "timestamp": 1793821362
+  },
+  {
     "id": "411566fcb16242f9",
     "titulo": "El mundo del «Made in China»",
     "fuente": "Rebelión · Economía",
@@ -160,23 +178,5 @@
     "archivo": "80b700e33b7d16fd.mp3",
     "bytes": 1789344,
     "timestamp": 1788021651
-  },
-  {
-    "id": "06e79c0c4e0955b9",
-    "titulo": "Las locuras de Trump comienzan a pasar factura",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/las-locuras-de-trump-comienzan-a-pasar-factura/",
-    "archivo": "06e79c0c4e0955b9.mp3",
-    "bytes": 1798704,
-    "timestamp": 1787955378
-  },
-  {
-    "id": "9efc013abeb4bfd9",
-    "titulo": "La economía política de la guerra contra Irán",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/la-economia-politica-de-la-guerra-contra-iran/",
-    "archivo": "9efc013abeb4bfd9.mp3",
-    "bytes": 7910784,
-    "timestamp": 1787955363
   }
 ]
