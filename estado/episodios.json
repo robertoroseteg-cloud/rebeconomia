@@ -1,5 +1,23 @@
 [
   {
+    "id": "7de00eab83f3014c",
+    "titulo": "Caseros, fondos buitre y la huelga general del 11 de noviembre",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/caseros-fondos-buitre-y-la-huelga-general-del-11-de-noviembre/",
+    "archivo": "7de00eab83f3014c.mp3",
+    "bytes": 8044128,
+    "timestamp": 1793908560
+  },
+  {
+    "id": "f71981e7048c7994",
+    "titulo": "La economía mundial va tirando a pesar de las dificultades, pero se avecina una tormenta",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/la-economia-mundial-va-tirando-a-pesar-de-las-dificultades-pero-se-avecina-una-tormenta/",
+    "archivo": "f71981e7048c7994.mp3",
+    "bytes": 2976192,
+    "timestamp": 1793908413
+  },
+  {
     "id": "948e692ae70cd811",
     "titulo": "África decide: el nuevo equilibrio entre Rusia y Europa",
     "fuente": "Rebelión · Economía",
@@ -160,23 +178,5 @@
     "archivo": "57bb62aa09d25934.mp3",
     "bytes": 4469616,
     "timestamp": 1788203249
-  },
-  {
-    "id": "a175da3a74cf1824",
-    "titulo": "A sangre fría, agosto de 2026",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/a-sangre-fria-agosto-de-2026/",
-    "archivo": "a175da3a74cf1824.mp3",
-    "bytes": 11492208,
-    "timestamp": 1788021768
-  },
-  {
-    "id": "80b700e33b7d16fd",
-    "titulo": "Las amenazas imperiales de Trump contra Irán y el mundo",
-    "fuente": "Economía – Rebelion",
-    "enlace": "https://rebelion.org/las-amenazas-imperiales-de-trump-contra-iran-y-el-mundo/",
-    "archivo": "80b700e33b7d16fd.mp3",
-    "bytes": 1789344,
-    "timestamp": 1788021651
   }
 ]
