@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Examinando a «las cucarachas»</title>
+      <description>Rebelión · Economía — https://rebelion.org/examinando-a-las-cucarachas/</description>
+      <link>https://rebelion.org/examinando-a-las-cucarachas/</link>
+      <guid isPermaLink="false">d7493dd83cd2d49b</guid>
+      <pubDate>Mon, 09 Nov 2026 22:17:15 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/d7493dd83cd2d49b.mp3" length="4670784" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Erradicación de la pobreza extrema en 2030: objetivo clave de la ONU que no se logrará</title>
       <description>Rebelión · Economía — https://rebelion.org/erradicacion-de-la-pobreza-extrema-en-2030-un-objetivo-clave-de-la-onu-que-no-se-lograra/</description>
       <link>https://rebelion.org/erradicacion-de-la-pobreza-extrema-en-2030-un-objetivo-clave-de-la-onu-que-no-se-lograra/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">fce70d3ee434c8a7</guid>
       <pubDate>Sat, 24 Oct 2026 15:59:43 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/fce70d3ee434c8a7.mp3" length="4724352" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La democracia económica es el núcleo del socialismo</title>
-      <description>Rebelión · Economía — https://rebelion.org/la-democracia-economica-es-el-nucleo-del-socialismo/</description>
-      <link>https://rebelion.org/la-democracia-economica-es-el-nucleo-del-socialismo/</link>
-      <guid isPermaLink="false">1195d81a1f1626c9</guid>
-      <pubDate>Sat, 24 Oct 2026 15:53:13 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/1195d81a1f1626c9.mp3" length="110016" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
