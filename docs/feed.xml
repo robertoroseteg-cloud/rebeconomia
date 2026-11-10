@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>¿Qué nos puede decir la última gran crisis sobre la próxima?</title>
+      <description>Rebelión · Economía — https://rebelion.org/que-nos-puede-decir-la-ultima-gran-crisis-sobre-la-proxima/</description>
+      <link>https://rebelion.org/que-nos-puede-decir-la-ultima-gran-crisis-sobre-la-proxima/</link>
+      <guid isPermaLink="false">fce9946836d40248</guid>
+      <pubDate>Tue, 10 Nov 2026 19:46:43 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/fce9946836d40248.mp3" length="17427168" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Examinando a «las cucarachas»</title>
       <description>Rebelión · Economía — https://rebelion.org/examinando-a-las-cucarachas/</description>
       <link>https://rebelion.org/examinando-a-las-cucarachas/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">fed8cc2b621fe624</guid>
       <pubDate>Mon, 26 Oct 2026 18:40:02 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/fed8cc2b621fe624.mp3" length="5020272" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El economista Anwar Shaikh, antídoto contra las ilusiones capitalistas</title>
-      <description>Rebelión · Economía — https://rebelion.org/el-economista-anwar-shaikh-antidoto-contra-las-ilusiones-capitalistas/</description>
-      <link>https://rebelion.org/el-economista-anwar-shaikh-antidoto-contra-las-ilusiones-capitalistas/</link>
-      <guid isPermaLink="false">fce70d3ee434c8a7</guid>
-      <pubDate>Sat, 24 Oct 2026 15:59:43 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/fce70d3ee434c8a7.mp3" length="4724352" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
