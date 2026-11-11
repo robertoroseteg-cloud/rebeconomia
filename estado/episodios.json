@@ -1,5 +1,23 @@
 [
   {
+    "id": "bd56e9197d851bce",
+    "titulo": "¿Más eslabones debilitados en la cadena imperialista?",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/mas-eslabones-debilitados-en-la-cadena-imperialista/",
+    "archivo": "bd56e9197d851bce.mp3",
+    "bytes": 4811184,
+    "timestamp": 1794425848
+  },
+  {
+    "id": "a1bd240742cb2da5",
+    "titulo": "¿El Estado nunca paga su deuda? Una fábula interesada",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/el-estado-nunca-paga-su-deuda-una-fabula-interesada/",
+    "archivo": "a1bd240742cb2da5.mp3",
+    "bytes": 8460432,
+    "timestamp": 1794425710
+  },
+  {
     "id": "fce9946836d40248",
     "titulo": "¿Qué nos puede decir la última gran crisis sobre la próxima?",
     "fuente": "Rebelión · Economía",
@@ -160,23 +178,5 @@
     "archivo": "64a39fc77d5803f7.mp3",
     "bytes": 2971440,
     "timestamp": 1793211605
-  },
-  {
-    "id": "f2764d105bd2f2a4",
-    "titulo": "Karl Marx y la deuda pública: un análisis de actualidad",
-    "fuente": "Rebelión · Economía",
-    "enlace": "https://rebelion.org/karl-marx-y-la-deuda-publica-un-analisis-de-actualidad/",
-    "archivo": "f2764d105bd2f2a4.mp3",
-    "bytes": 554976,
-    "timestamp": 1793040017
-  },
-  {
-    "id": "fed8cc2b621fe624",
-    "titulo": "Los bufones del poder y el poder de los bufones",
-    "fuente": "Rebelión · Economía",
-    "enlace": "https://rebelion.org/los-bufones-del-poder-y-el-poder-de-los-bufones/",
-    "archivo": "fed8cc2b621fe624.mp3",
-    "bytes": 5020272,
-    "timestamp": 1793040002
   }
 ]
