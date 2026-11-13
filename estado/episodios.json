@@ -1,5 +1,14 @@
 [
   {
+    "id": "05a8f27a0faff59a",
+    "titulo": "Por qué no se deben utilizar los índices de Gini o de Palma para medir la desigualdad",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/por-que-no-se-deben-utilizar-los-indices-de-gini-o-de-palma-para-medir-la-desigualdad/",
+    "archivo": "05a8f27a0faff59a.mp3",
+    "bytes": 7989984,
+    "timestamp": 1794598694
+  },
+  {
     "id": "972a707f274ace9c",
     "titulo": "La «ejecución incoherente» de las sanciones europeas contra Rusia",
     "fuente": "Rebelión · Economía",
@@ -169,14 +178,5 @@
     "archivo": "db0e0b7d1c7c785a.mp3",
     "bytes": 13323168,
     "timestamp": 1793298647
-  },
-  {
-    "id": "3a2e7219f77e963a",
-    "titulo": "Un Premio Nobel por «mover la economía en la dirección correcta»",
-    "fuente": "Rebelión · Economía",
-    "enlace": "https://rebelion.org/un-premio-nobel-por-mover-la-economia-en-la-direccion-correcta/",
-    "archivo": "3a2e7219f77e963a.mp3",
-    "bytes": 6037488,
-    "timestamp": 1793298408
   }
 ]
