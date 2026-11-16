@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los demócratas ganaron, ¿pero qué demócratas?</title>
+      <description>Rebelión · Economía — https://rebelion.org/los-democratas-ganaron-pero-que-democratas/</description>
+      <link>https://rebelion.org/los-democratas-ganaron-pero-que-democratas/</link>
+      <guid isPermaLink="false">a1e442abc3a0af2f</guid>
+      <pubDate>Mon, 16 Nov 2026 21:59:02 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/a1e442abc3a0af2f.mp3" length="6039072" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La evanescente ilusión de un mundo multipolar, capitalista, pacífico y de cooperación</title>
       <description>Rebelión · Economía — https://rebelion.org/la-evanescente-ilusion-de-un-mundo-multipolar-capitalista-pacifico-y-de-cooperacion/</description>
       <link>https://rebelion.org/la-evanescente-ilusion-de-un-mundo-multipolar-capitalista-pacifico-y-de-cooperacion/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">3ff7b05ece00bb8b</guid>
       <pubDate>Sat, 31 Oct 2026 17:16:20 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/3ff7b05ece00bb8b.mp3" length="8676864" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Brasil: la batalla acaba de comenzar</title>
-      <description>Rebelión · Economía — https://rebelion.org/brasil-la-batalla-acaba-de-comenzar/</description>
-      <link>https://rebelion.org/brasil-la-batalla-acaba-de-comenzar/</link>
-      <guid isPermaLink="false">0df32f511790cfd9</guid>
-      <pubDate>Fri, 30 Oct 2026 17:59:00 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/0df32f511790cfd9.mp3" length="3262608" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
