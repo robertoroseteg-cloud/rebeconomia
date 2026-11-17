@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Más guerras, menos solidaridad</title>
+      <description>Rebelión · Economía — https://rebelion.org/mas-guerras-menos-solidaridad/</description>
+      <link>https://rebelion.org/mas-guerras-menos-solidaridad/</link>
+      <guid isPermaLink="false">1be5baddf7250cdd</guid>
+      <pubDate>Tue, 17 Nov 2026 20:50:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/1be5baddf7250cdd.mp3" length="4514544" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los demócratas ganaron, ¿pero qué demócratas?</title>
       <description>Rebelión · Economía — https://rebelion.org/los-democratas-ganaron-pero-que-democratas/</description>
       <link>https://rebelion.org/los-democratas-ganaron-pero-que-democratas/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">9d775621f28ea055</guid>
       <pubDate>Mon, 02 Nov 2026 21:41:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/9d775621f28ea055.mp3" length="5521392" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Huelga, sujeto y utopía «positiva»</title>
-      <description>Rebelión · Economía — https://rebelion.org/huelga-sujeto-y-utopia-positiva/</description>
-      <link>https://rebelion.org/huelga-sujeto-y-utopia-positiva/</link>
-      <guid isPermaLink="false">3ff7b05ece00bb8b</guid>
-      <pubDate>Sat, 31 Oct 2026 17:16:20 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/3ff7b05ece00bb8b.mp3" length="8676864" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
