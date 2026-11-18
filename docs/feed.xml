@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>PP y Vox: dos programas y una misma aritmética imposible</title>
+      <description>Rebelión · Economía — https://rebelion.org/pp-y-vox-dos-programas-y-una-misma-aritmetica-imposible/</description>
+      <link>https://rebelion.org/pp-y-vox-dos-programas-y-una-misma-aritmetica-imposible/</link>
+      <guid isPermaLink="false">64bdc96ac2698085</guid>
+      <pubDate>Wed, 18 Nov 2026 20:29:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/64bdc96ac2698085.mp3" length="8635680" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Más guerras, menos solidaridad</title>
       <description>Rebelión · Economía — https://rebelion.org/mas-guerras-menos-solidaridad/</description>
       <link>https://rebelion.org/mas-guerras-menos-solidaridad/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">0397e8d350527626</guid>
       <pubDate>Mon, 02 Nov 2026 21:42:18 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/0397e8d350527626.mp3" length="1648368" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿El «Sistema Internacional de Shenzhen» un nuevo paradigma después de Yalta?</title>
-      <description>Rebelión · Economía — https://rebelion.org/el-sistema-internacional-de-shenzhen-un-nuevo-paradigma-despues-de-yalta/</description>
-      <link>https://rebelion.org/el-sistema-internacional-de-shenzhen-un-nuevo-paradigma-despues-de-yalta/</link>
-      <guid isPermaLink="false">9d775621f28ea055</guid>
-      <pubDate>Mon, 02 Nov 2026 21:41:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/9d775621f28ea055.mp3" length="5521392" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
