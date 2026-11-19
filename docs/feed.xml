@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Trump, el negocio de ser presidente en Estados Unidos</title>
+      <description>Rebelión · Economía — https://rebelion.org/trump-el-negocio-de-ser-presidente-en-estados-unidos/</description>
+      <link>https://rebelion.org/trump-el-negocio-de-ser-presidente-en-estados-unidos/</link>
+      <guid isPermaLink="false">65f4e5d4c37a4718</guid>
+      <pubDate>Thu, 19 Nov 2026 20:31:34 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/65f4e5d4c37a4718.mp3" length="1754784" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La mitad del mundo podría salir de la pobreza en doce meses</title>
+      <description>Rebelión · Economía — https://rebelion.org/la-mitad-del-mundo-podria-salir-de-la-pobreza-en-doce-meses/</description>
+      <link>https://rebelion.org/la-mitad-del-mundo-podria-salir-de-la-pobreza-en-doce-meses/</link>
+      <guid isPermaLink="false">fd41c9e80b50a1d0</guid>
+      <pubDate>Thu, 19 Nov 2026 20:30:39 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/fd41c9e80b50a1d0.mp3" length="3257712" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>PP y Vox: dos programas y una misma aritmética imposible</title>
       <description>Rebelión · Economía — https://rebelion.org/pp-y-vox-dos-programas-y-una-misma-aritmetica-imposible/</description>
       <link>https://rebelion.org/pp-y-vox-dos-programas-y-una-misma-aritmetica-imposible/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">411566fcb16242f9</guid>
       <pubDate>Tue, 03 Nov 2026 19:30:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/411566fcb16242f9.mp3" length="1579968" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Keynes y la promesa de liberarnos del trabajo</title>
-      <description>Rebelión · Economía — https://rebelion.org/keynes-y-la-promesa-de-liberarnos-del-trabajo/</description>
-      <link>https://rebelion.org/keynes-y-la-promesa-de-liberarnos-del-trabajo/</link>
-      <guid isPermaLink="false">139b9bef714b10be</guid>
-      <pubDate>Tue, 03 Nov 2026 19:30:23 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/139b9bef714b10be.mp3" length="9307296" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>No queremos sobrevivir al neoliberalismo genocida, queremos una transformación cooperativa de la sociedad argentina</title>
-      <description>Rebelión · Economía — https://rebelion.org/no-queremos-sobrevivir-al-neoliberalismo-genocida-queremos-una-transformacion-cooperativa-de-la-sociedad-argentina/</description>
-      <link>https://rebelion.org/no-queremos-sobrevivir-al-neoliberalismo-genocida-queremos-una-transformacion-cooperativa-de-la-sociedad-argentina/</link>
-      <guid isPermaLink="false">0397e8d350527626</guid>
-      <pubDate>Mon, 02 Nov 2026 21:42:18 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/0397e8d350527626.mp3" length="1648368" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
