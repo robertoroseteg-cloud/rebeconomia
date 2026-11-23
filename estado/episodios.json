@@ -1,5 +1,23 @@
 [
   {
+    "id": "7120f8f3d4661e08",
+    "titulo": "PSOE y Frente Amplio: dos voluntades de transformación sin los motores que la hagan posible",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/psoe-y-frente-amplio-dos-voluntades-de-transformacion-sin-los-motores-que-la-hagan-posible/",
+    "archivo": "7120f8f3d4661e08.mp3",
+    "bytes": 7444512,
+    "timestamp": 1795478021
+  },
+  {
+    "id": "60d246a64c98fbbd",
+    "titulo": "Lula al Gobierno, la derecha al poder",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/lula-al-gobierno-la-derecha-al-poder/",
+    "archivo": "60d246a64c98fbbd.mp3",
+    "bytes": 6047856,
+    "timestamp": 1795477811
+  },
+  {
     "id": "acda57b97e5f9274",
     "titulo": "Lo que la derecha no te cuenta de la sanidad privada que apoya",
     "fuente": "Rebelión · Economía",
@@ -160,23 +178,5 @@
     "archivo": "75e9f9306e589ce8.mp3",
     "bytes": 4328640,
     "timestamp": 1794073521
-  },
-  {
-    "id": "d0553319c78ab733",
-    "titulo": "Deuda de Venezuela: la gran estafa de la reestructuración bajo dominación neocolonial",
-    "fuente": "Rebelión · Economía",
-    "enlace": "https://rebelion.org/deuda-de-venezuela-la-gran-estafa-de-la-reestructuracion-bajo-dominacion-neocolonial/",
-    "archivo": "d0553319c78ab733.mp3",
-    "bytes": 15282144,
-    "timestamp": 1793992958
-  },
-  {
-    "id": "7de00eab83f3014c",
-    "titulo": "Caseros, fondos buitre y la huelga general del 11 de noviembre",
-    "fuente": "Rebelión · Economía",
-    "enlace": "https://rebelion.org/caseros-fondos-buitre-y-la-huelga-general-del-11-de-noviembre/",
-    "archivo": "7de00eab83f3014c.mp3",
-    "bytes": 8044128,
-    "timestamp": 1793908560
   }
 ]
