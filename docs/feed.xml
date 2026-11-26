@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>A sangre fría, noviembre de 2026</title>
+      <description>Rebelión · Economía — https://rebelion.org/a-sangre-fria-noviembre-de-2026/</description>
+      <link>https://rebelion.org/a-sangre-fria-noviembre-de-2026/</link>
+      <guid isPermaLink="false">1ab60b60e83b2366</guid>
+      <pubDate>Thu, 26 Nov 2026 21:29:43 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/1ab60b60e83b2366.mp3" length="8317584" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Engels: el millonario que utilizó su fortuna para combatir el sistema que lo había enriquecido</title>
+      <description>Rebelión · Economía — https://rebelion.org/engels-el-millonario-que-utilizo-su-fortuna-para-combatir-el-sistema-que-lo-habia-enriquecido/</description>
+      <link>https://rebelion.org/engels-el-millonario-que-utilizo-su-fortuna-para-combatir-el-sistema-que-lo-habia-enriquecido/</link>
+      <guid isPermaLink="false">d8b7dc4ed0aa9286</guid>
+      <pubDate>Thu, 26 Nov 2026 21:26:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/d8b7dc4ed0aa9286.mp3" length="4603824" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Deutsche Bank: los escándalos que evidencian la impunidad de los grandes bancos</title>
       <description>Rebelión · Economía — https://rebelion.org/deutsche-bank-los-escandalos-que-evidencian-la-impunidad-de-los-grandes-bancos/</description>
       <link>https://rebelion.org/deutsche-bank-los-escandalos-que-evidencian-la-impunidad-de-los-grandes-bancos/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">a1bd240742cb2da5</guid>
       <pubDate>Wed, 11 Nov 2026 19:35:10 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/a1bd240742cb2da5.mp3" length="8460432" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Qué nos puede decir la última gran crisis sobre la próxima?</title>
-      <description>Rebelión · Economía — https://rebelion.org/que-nos-puede-decir-la-ultima-gran-crisis-sobre-la-proxima/</description>
-      <link>https://rebelion.org/que-nos-puede-decir-la-ultima-gran-crisis-sobre-la-proxima/</link>
-      <guid isPermaLink="false">fce9946836d40248</guid>
-      <pubDate>Tue, 10 Nov 2026 19:46:43 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/fce9946836d40248.mp3" length="17427168" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Examinando a «las cucarachas»</title>
-      <description>Rebelión · Economía — https://rebelion.org/examinando-a-las-cucarachas/</description>
-      <link>https://rebelion.org/examinando-a-las-cucarachas/</link>
-      <guid isPermaLink="false">d7493dd83cd2d49b</guid>
-      <pubDate>Mon, 09 Nov 2026 22:17:15 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebeconomia/episodios/d7493dd83cd2d49b.mp3" length="4670784" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
