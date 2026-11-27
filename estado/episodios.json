@@ -1,5 +1,32 @@
 [
   {
+    "id": "0df85d5271721310",
+    "titulo": "Derecha e izquierda: involución acelerada o progreso con dificultades",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/derecha-e-izquierda-involucion-acelerada-o-progreso-con-dificultades/",
+    "archivo": "0df85d5271721310.mp3",
+    "bytes": 4454784,
+    "timestamp": 1795813813
+  },
+  {
+    "id": "6a79e1bd217f0de8",
+    "titulo": "En los países del Norte: las repudiaciones de deuda desde finales del XVIII hasta el XXI",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/en-los-paises-del-norte-las-repudiaciones-de-deuda-desde-finales-del-xviii-hasta-el-xxi/",
+    "archivo": "6a79e1bd217f0de8.mp3",
+    "bytes": 298656,
+    "timestamp": 1795813720
+  },
+  {
+    "id": "015cf8347e2661e4",
+    "titulo": "La crisis ucraniana no tiene parangón",
+    "fuente": "Rebelión · Economía",
+    "enlace": "https://rebelion.org/la-crisis-ucraniana-no-tiene-parangon/",
+    "archivo": "015cf8347e2661e4.mp3",
+    "bytes": 1398384,
+    "timestamp": 1795813707
+  },
+  {
     "id": "1ab60b60e83b2366",
     "titulo": "A sangre fría, noviembre de 2026",
     "fuente": "Rebelión · Economía",
@@ -151,32 +178,5 @@
     "archivo": "972a707f274ace9c.mp3",
     "bytes": 2208096,
     "timestamp": 1794513226
-  },
-  {
-    "id": "6e98dfb3b6f0668a",
-    "titulo": "Paraguay: las contradicciones del paraíso neoliberal",
-    "fuente": "Rebelión · Economía",
-    "enlace": "https://rebelion.org/paraguay-las-contradicciones-del-paraiso-neoliberal/",
-    "archivo": "6e98dfb3b6f0668a.mp3",
-    "bytes": 4937904,
-    "timestamp": 1794513173
-  },
-  {
-    "id": "bd56e9197d851bce",
-    "titulo": "¿Más eslabones debilitados en la cadena imperialista?",
-    "fuente": "Rebelión · Economía",
-    "enlace": "https://rebelion.org/mas-eslabones-debilitados-en-la-cadena-imperialista/",
-    "archivo": "bd56e9197d851bce.mp3",
-    "bytes": 4811184,
-    "timestamp": 1794425848
-  },
-  {
-    "id": "a1bd240742cb2da5",
-    "titulo": "¿El Estado nunca paga su deuda? Una fábula interesada",
-    "fuente": "Rebelión · Economía",
-    "enlace": "https://rebelion.org/el-estado-nunca-paga-su-deuda-una-fabula-interesada/",
-    "archivo": "a1bd240742cb2da5.mp3",
-    "bytes": 8460432,
-    "timestamp": 1794425710
   }
 ]
